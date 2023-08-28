@@ -1,2 +1,2 @@
 # Responsive stateless database
-School project
+School project for low-level database
